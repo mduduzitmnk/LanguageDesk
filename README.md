@@ -1,2 +1,2 @@
 # LanguageDesk
-LanguageDesk is a full fledged helpdesk application supporting multiple clients to interact with each other via a single server. It is coded fully in Java using the NetBeans IDE with the latest libraries for exporting the results to MS Excel and Word documents.
+LanguageDesk is a full fledged helpdesk application and it dealt with providing support and troubleshooting issues raised by the clients in an effective manner. It is coded fully in Java with the Swing GUI widget using NetBeans IDE with the Apache POI libraries for exporting the resolution to MS Excel and Word documents. 
